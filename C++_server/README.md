@@ -7,12 +7,6 @@ This folder contains the C++ server component of the UTube project. It handles i
 
 **For complete details, explanations, screenshots, and usage instructions, please visit the [Wiki tab](https://github.com/Avrhambi/Utube/wiki).**
 
----
-
-# UTUBE C++ SERVER
-
-## OVERVIEW
-Welcome to the UTube C++ Server branch, a key component of the UTube app developed as part of an Advanced System Programming course at Bar-Ilan University. This repository holds the server-side code that powers our UTube application, which simulates a simplified version of a video streaming service where users can watch, like, and comment on videos.
 
 ## FULL PROJECT DETAILS
 For full details on the entire UTube project, including the Android app, React web app, and Node.js server, please skip this README.md and refer to the wiki pages located inside the `cpp_server` branch's wiki folder or on the wiki page of the entire repository.
