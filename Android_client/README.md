@@ -28,6 +28,7 @@ development and testing purposes. Follow these simple steps to get started.
 1. **Clone the Repository**
    Open your terminal and run the following command:
    ```bash
+   # if you didn't alreardy clone it once for the entire project
    git clone https://github.com/Avrhambi/Utube.git android
    cd Android_client
 
