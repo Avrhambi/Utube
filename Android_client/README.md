@@ -28,8 +28,9 @@ development and testing purposes. Follow these simple steps to get started.
 1. **Clone the Repository**
    Open your terminal and run the following command:
    ```bash
-   git clone https://github.com/Yedpel/android_task_4
-   cd UTube_Android
+   git clone https://github.com/Avrhambi/Utube.git android
+   cd android
+   git checkout UTube_Android
 
 2. **Open the Project in Android Studio**
     - Open Android Studio. On the welcome screen, select Open an Existing Project or
