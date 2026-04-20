@@ -1,0 +1,20 @@
+# Mark generated/vendored files so GitHub Linguist excludes them from language stats
+
+# Node.js
+Node-js_server/public/** linguist-vendored
+Node-js_server/package-lock.json linguist-generated
+Web_client/package-lock.json linguist-generated
+Web_client/public/videos.json linguist-generated
+
+# Android Gradle wrapper (binary + generated)
+Android_client/gradle/wrapper/gradle-wrapper.jar linguist-vendored
+Android_client/gradlew linguist-vendored
+Android_client/gradlew.bat linguist-vendored
+
+# Media / binary assets — not code
+**.mp4 linguist-vendored
+**.webp linguist-vendored
+**.png linguist-vendored
+**.jpg linguist-vendored
+**.ico linguist-vendored
+**.svg linguist-vendored
