@@ -30,7 +30,7 @@ development and testing purposes. Follow these simple steps to get started.
    ```bash
    git clone https://github.com/Avrhambi/Utube.git android
    cd android
-   git checkout UTube_Android
+   git checkout Android_client
 
 2. **Open the Project in Android Studio**
     - Open Android Studio. On the welcome screen, select Open an Existing Project or
