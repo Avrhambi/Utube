@@ -2,22 +2,11 @@
 
 This folder contains the React web client component of the UTube project — a browser-based frontend for browsing, watching, uploading, and managing videos.
 
-## Project Overview
-
-UTube is a full-featured video-sharing application modeled after YouTube, developed as part of an Advanced System Programming course at Bar-Ilan University.
-
-The full project is organized into four components:
-1. C++ Server (`C++_server/`)
-2. Node.js Server (`Node-js_server/`)
-3. **Web Client — React** ← you are here
-4. Android Client (`Android_client/`)
-
 ## Live Demo
 
-A static demo of the web client is hosted on GitHub Pages:
+A demo of the web client is hosted on GitHub Pages:
 **https://avrhambi.github.io/Utube**
 
-> The demo runs without a backend — videos and thumbnails are loaded from static files.
 
 ## Wiki - Full Documentation
 
@@ -36,9 +25,9 @@ Creating the UTube web client was a rewarding and challenging experience. Our gr
 
 1. **Clone the Repository**
    ```bash
-    git clone https://github.com/Yedpel/task4_UTube.git
-    cd task4_UTube
-    cd web_react
+    # if you didn't alreardy clone it once for the entire project
+    git https://github.com/Avrhambi/Utube.git
+    cd Web_client
 
 2. **Run the Application**
 Use the following command to run the app in development mode:
