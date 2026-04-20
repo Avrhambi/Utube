@@ -24,8 +24,7 @@ To set up and run the server locally, follow these steps:
    Open your terminal and run the following command:
    ```bash
    git clone https://github.com/Avrhambi/Utube.git c++_server
-   cd c++_server
-   git checout C++_server
+   cd C++_server
 
 ### Step 1: Install the required JSON library
 Before compiling, run this command in the terminal to install the required JSON library:
