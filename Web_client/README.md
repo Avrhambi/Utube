@@ -14,14 +14,8 @@ A demo of the web client is hosted on GitHub Pages:
 
 ---
 
-## UTube Web Client
 
-For full details on the entire UTube project, including the backend servers and Android app, refer to the wiki pages located in the NodeJs_Server branch under the wiki folder.
-
-To launch the full project with all features, the server-side configuration is necessary — see the wiki for setup instructions.
-
-## Overview
-Creating the UTube web client was a rewarding and challenging experience. Our group collaborated by brainstorming ideas and sketching out designs. Avraham worked on the home page and video management features, while Shimon focused on login and signup screens. We overcame various debugging issues and learned a lot about teamwork throughout the process.
+## Getting Started
 
 1. **Clone the Repository**
    ```bash
