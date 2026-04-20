@@ -2,16 +2,6 @@
 
 This folder contains the Android client component of the UTube project — a native Android app that lets users browse, watch, like, and comment on videos.
 
-## Project Overview
-
-UTube is a full-featured video-sharing application modeled after YouTube, developed as part of an Advanced System Programming course at Bar-Ilan University.
-
-The full project is organized into four components:
-1. C++ Server (`C++_server/`)
-2. Node.js Server (`Node-js_server/`)
-3. Web Client — React (`Web_client/`)
-4. **Android Client** ← you are here
-
 ## Wiki - Full Documentation
 
 **For complete details, explanations, screenshots, and usage instructions, please visit the [Wiki tab](https://github.com/Avrhambi/Utube/wiki).**
@@ -22,8 +12,6 @@ The full project is organized into four components:
 For full details on the entire UTube project, including the Android app, React web app, and C++ server, please skip this README.md and refer to the wiki pages located inside the nodeJS_server branch's wiki folder or on the wiki page of the entire repository.
 
 ## Getting Started
-
-Again - full explain is on the wiki.
 
 These instructions will get you a copy of the project up and running on your local machine for
 development and testing purposes. Follow these simple steps to get started.
