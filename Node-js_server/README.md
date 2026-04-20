@@ -1,7 +1,7 @@
 # UTube Node.js Server
 
 ## Overview
-Welcome to the UTube Node.js Server branch, a key component of the UTube app. This repository holds the server-side code that powers our UTube application, which simulates a simplified version of a video streaming service where users can watch, like, and comment on videos.
+Welcome to the UTube Node.js Server branch, a key component of the UTube app. This repository holds the server-side code that powers our UTube application.
 
 ## Wiki - Full Documentation
 
