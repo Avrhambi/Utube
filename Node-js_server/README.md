@@ -22,9 +22,9 @@ To set up and run the server locally, follow these steps:
 1. **Clone the repository**
    First, clone the repository and switch to the correct branch:
    ```bash
+   # if you didn't alreardy clone it once for the entire project
    git clone https://github.com/Avrhambi/Utube.git node-js_server
-   cd node-js_server
-   git checkout NodeJs_Server
+   cd Node-js_Server
 3. **Install dependencies**
 Ensure that you have Node.js installed on your system. Then run:
    ```bash
