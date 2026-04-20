@@ -2,15 +2,6 @@
 
 This folder contains the C++ server component of the UTube project. It handles intelligent video recommendations using a multi-threaded TCP architecture that runs alongside the Node.js backend.
 
-## Project Overview
-
-UTube is a full-featured video-sharing application modeled after YouTube, developed as part of an Advanced System Programming course at Bar-Ilan University.
-
-The full project is organized into four components:
-1. **C++ Server** ← you are here
-2. Node.js Server (`Node-js_server/`)
-3. Web Client — React (`Web_client/`)
-4. Android Client (`Android_client/`)
 
 ## Wiki - Full Documentation
 
@@ -28,6 +19,12 @@ For full details on the entire UTube project, including the Android app, React w
 
 ## GETTING STARTED
 To set up and run the server locally, follow these steps:
+
+1. **Clone the Repository**
+   Open your terminal and run the following command:
+   ```bash
+   git clone https://github.com/Avrhambi/Utube.git
+   cd C++_server
 
 ### Step 1: Install the required JSON library
 Before compiling, run this command in the terminal to install the required JSON library:
