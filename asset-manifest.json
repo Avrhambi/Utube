@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/App.js/static/css/main.a7c0d317.css",
-    "main.js": "/App.js/static/js/main.b12b3e45.js",
-    "index.html": "/App.js/index.html",
-    "main.a7c0d317.css.map": "/App.js/static/css/main.a7c0d317.css.map",
-    "main.b12b3e45.js.map": "/App.js/static/js/main.b12b3e45.js.map"
+    "main.css": "/Utube/static/css/main.a7c0d317.css",
+    "main.js": "/Utube/static/js/main.b12b3e45.js",
+    "index.html": "/Utube/index.html",
+    "main.a7c0d317.css.map": "/Utube/static/css/main.a7c0d317.css.map",
+    "main.b12b3e45.js.map": "/Utube/static/js/main.b12b3e45.js.map"
   },
   "entrypoints": [
     "static/css/main.a7c0d317.css",
